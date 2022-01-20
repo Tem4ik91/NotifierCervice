@@ -1,0 +1,3 @@
+# Project exclude paths
+/soap-client/target/
+/soap-server/target/
